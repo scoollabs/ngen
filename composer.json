@@ -2,7 +2,7 @@
     "name": "scoollabs/ngen",
     "type": "library",
     "description": "Simple C# Generator",
-    "keywords": ["c#","generator"],
+    "keywords": ["csharp","generator"],
     "homepage": "http://www.scoollabs.com",
     "license": "MIT",
     "authors": [
