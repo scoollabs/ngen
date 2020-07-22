@@ -1,0 +1,17 @@
+{
+    "name": "scoollabs/ngen",
+    "type": "library",
+    "description": "Simple C# Generator",
+    "keywords": ["c#","generator"],
+    "homepage": "http://www.scoollabs.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian Escarro",
+            "email": "ian.escarro@gmail.com",
+            "homepage": "http://www.scoollabs.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}

@@ -1,3 +1,4 @@
 *.backup
 *.cs
 *.sql
+/vendor/
